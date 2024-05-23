@@ -1,3 +1,4 @@
+#YOU #ARE #FORKED
 #!/usr/bin/env python
 # Impacket - Collection of Python classes for working with network protocols.
 #
